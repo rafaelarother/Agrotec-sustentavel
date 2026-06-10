@@ -1,61 +1,52 @@
-
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cocho de Água Autolimpante</title>
+    <title>Cochos de Água Autolimpante</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <header>
+        <h1>Cochos de Água Autolimpante</h1>
+        <nav>
+            <ul>
+                <li><a href="#sobre">Sobre</a></li>
+                <li><a href="#vantagens">Vantagens</a></li>
+                <li><a href="#galeria">Galeria</a></li>
+            </ul>
+        </nav>
+    </header>
 
-<header>
-    <h1>Cocho de Água Autolimpante</h1>
-    <p>Água limpa para seu rebanho 24 horas por dia.</p>
-</header>
+    <section id="sobre">
+        <h2>Sobre os Cochos Autolimpantes</h2>
+        <p>Os cochos de água autolimpante são projetados para manter a água sempre limpa, evitando a proliferação de bactérias e sujeira.</p>
+        <button id="toggle-info">Saiba Mais</button>
+        <p id="extra-info" class="hidden">Eles funcionam com um sistema de filtração contínua e alertas automáticos para troca de filtros.</p>
+    </section>
 
-<section class="hero">
-    <h2>Tecnologia para o Campo</h2>
-    <p>
-        Sistema automático de limpeza e abastecimento,
-        reduzindo desperdícios e melhorando a qualidade da água.
-    </p>
-    <button onclick="contato()">Solicitar Orçamento</button>
-</section>
+    <section id="vantagens">
+        <h2>Vantagens</h2>
+        <ul>
+            <li>Redução de doenças em animais</li>
+            <li>Economia de água</li>
+            <li>Menos manutenção para o produtor</li>
+        </ul>
+    </section>
 
-<section class="beneficios">
-    <h2>Benefícios</h2>
+    <section id="galeria">
+        <h2>Galeria Interativa</h2>
+        <div class="gallery">
+            <img src="https://via.placeholder.com/200x150?text=Cochos+1" alt="Cochos 1" class="gallery-img">
+            <img src="https://via.placeholder.com/200x150?text=Cochos+2" alt="Cochos 2" class="gallery-img">
+            <img src="https://via.placeholder.com/200x150?text=Cochos+3" alt="Cochos 3" class="gallery-img">
+        </div>
+    </section>
 
-    <div class="card">
-        <h3>💧 Água Sempre Limpa</h3>
-        <p>Remoção automática de sujeiras e resíduos.</p>
-    </div>
+    <footer>
+        <p>© 2026 Cochólogica - Todos os direitos reservados</p>
+    </footer>
 
-    <div class="card">
-        <h3>⏱ Economia de Tempo</h3>
-        <p>Menos trabalho manual na limpeza diária.</p>
-    </div>
-
-    <div class="card">
-        <h3>🐄 Mais Saúde Animal</h3>
-        <p>Reduz riscos de contaminação da água.</p>
-    </div>
-</section>
-
-<section class="contato">
-    <h2>Entre em Contato</h2>
-    <form>
-        <input type="text" placeholder="Nome" required>
-        <input type="email" placeholder="E-mail" required>
-        <textarea placeholder="Mensagem"></textarea>
-        <button type="submit">Enviar</button>
-    </form>
-</section>
-
-<footer>
-    <p>© 2026 Cocho Autolimpante - Todos os direitos reservados.</p>
-</footer>
-
-<script src="script.js"></script>
+    <script src="script.js"></script>
 </body>
 </html>
