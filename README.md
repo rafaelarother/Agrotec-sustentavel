@@ -1,6 +1,6 @@
-# Cochos de Água Autolimpante
+# Agro Forte, Futuro Sustentável
 
-Este é um site interativo sobre **cochos de água autolimpante**, projetado para fornecer informações e visualizações sobre este tipo de tecnologia para fazendas e criação de animais.
+Este é um site interativo sobre **produção agrícola sustentável** e **preservação ambiental**.
 
 ## Estrutura do Projeto
 
@@ -12,5 +12,5 @@ Este é um site interativo sobre **cochos de água autolimpante**, projetado par
 ## Funcionalidades
 
 - Mostrar informações adicionais ao clicar em "Saiba Mais"
-- Galeria interativa de imagens de cochos
+- Galeria interativa de imagens ambientais
 - Design responsivo e moderno
