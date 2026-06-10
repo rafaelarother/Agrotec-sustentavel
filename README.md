@@ -1,26 +1,16 @@
-# Bebedouro Autolimpante para Animais
+# Cochós de Água Autolimpante
 
-## Descrição
-Projeto desenvolvido para apresentar uma solução sustentável para fornecimento de água limpa aos animais.
-
-## Tecnologias Utilizadas
-- HTML5
-- CSS3
-- JavaScript
+Este é um site interativo sobre **cochos de água autolimpante**, projetado para fornecer informações e visualizações sobre este tipo de tecnologia para fazendas e criação de animais.
 
 ## Estrutura do Projeto
 
-```text
-├── index.html
-├── style.css
-├── script.js
-├── README.md
-└── img
-    ├── banner.png
-    ├── comedouro.png
-    ├── maquete-geral.png
-    └── logo-agrotec.png
-```
+- `index.html` - Página principal do site
+- `style.css` - Estilos e layout
+- `script.js` - Funcionalidade interativa
+- `README.md` - Documentação do projeto
 
-## Objetivo
-Reduzir o desperdício de água e melhorar a higiene dos animais através de um sistema autolimpante.
+## Funcionalidades
+
+- Mostrar informações adicionais ao clicar em "Saiba Mais"
+- Galeria interativa de imagens de cochos
+- Design responsivo e moderno
