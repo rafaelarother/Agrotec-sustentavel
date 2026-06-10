@@ -1,4 +1,4 @@
-# Cochós de Água Autolimpante
+# Cochos de Água Autolimpante
 
 Este é um site interativo sobre **cochos de água autolimpante**, projetado para fornecer informações e visualizações sobre este tipo de tecnologia para fazendas e criação de animais.
 
